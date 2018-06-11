@@ -1,0 +1,15 @@
+17-grid-and-flexbox Instructions
+
+Remember that making Flexbox function like a grid is a HACK.
+
+The correct use for Flexbox happens when you have a bunch of stuff you need to lay out on a web page, but the number of items might vary (say it's pulling the information from a database).
+
+Typically, this might be an image gallery, or a pile of media objects, or other repeatable units.
+
+Included here are two sets of files. The "flexbox gallery" folder contains an image gallery of pies with two different, but "legal" CSS layouts. Change the path to the different CSS files to see the difference.
+
+The second set of files includes a history page, laid out in CSS Grid.
+
+In this exercise, combine the Flexbox image gallery with the Grid layout of today's web page to create a properly branded image gallery page for the website.
+
+This is how layouts of the future will work!

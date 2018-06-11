@@ -1,0 +1,5 @@
+11-grid-grid Instructions
+
+Let's build a prototype layout grid with CSS Grid. We'll use a 4-column layout to keep things simple. We'll try laying out different combinations of columns for each row, and we'll try some reordering as well.
+
+Follow instructions in the HTML for layouts.

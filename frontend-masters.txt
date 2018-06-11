@@ -1,0 +1,4 @@
+
+If you like this workshop, you'll love the Frontend Masters course, "CSS Grids and Flexbox for Responsive Web Design". The workshop was based on this source material. 
+
+https://frontendmasters.com/courses/css-grids-flexbox/
